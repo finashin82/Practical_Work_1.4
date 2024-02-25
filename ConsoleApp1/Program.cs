@@ -15,7 +15,6 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("Нажмите любую клавишу для продолжения ...");
-
             Console.ReadKey();
 
             Console.Write("Hello ");
